@@ -1,5 +1,6 @@
+# AI ki knowledge me rakho
 # My AI Repo Rules 2026
-# Antigravity ka Permanent Master Rulebook
+# Master Rulebook
 # Har nayi chat mein yeh file MANDATORY read ki jayegi.
 
 ---
@@ -124,4 +125,4 @@ Rule 1 sabse zyaada important. Rule 16 se upar ki priority descending order mein
 
 ---
 *Last Updated: 2026-04-19*
-*Owner: sonamdas654 (Antigravity ka permanent KI rulebook)*
+*Owner: sonamdas654
